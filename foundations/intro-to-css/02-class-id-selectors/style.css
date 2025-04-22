@@ -1,0 +1,21 @@
+.primeira,
+.segunda,
+.terceira {
+    background-color: rgb(237, 159, 240);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#title {
+    color: rgb(89, 89, 247);
+    font-size: 36px;
+}
+
+.segunda {
+    font-size: 24px;
+}
+
+#outro {
+    background-color: rgb(118, 187, 101);
+    font-size: 24px;
+    font-weight: bold;
+}
